@@ -141,6 +141,6 @@ Topicos MQTT propostos (a validar com o grupo): `curitiba/<intersection_id>/sens
 
 | Area | Responsavel | Entregas principais |
 |---|---|---|
-| Computacao | _(nome)_ | SUMO, TraCI, painel de KPIs, GEH |
+| Computacao | Ana Luisa Girio | SUMO, TraCI, painel de KPIs, GEH |
 | Eletrica e Automacao | _(nome)_ | Sensores IoT, malha fechada, MQTT/Wokwi/Node-RED |
 | Mecanica | _(nome)_ | Emissoes (PHEMlight/HBEFA), frota, ruido |
