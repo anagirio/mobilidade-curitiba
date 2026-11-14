@@ -1,0 +1,12 @@
+<configuration>
+  <input>
+    <net-file value="placeholder.net.xml"/>
+    <route-files value="routes.rou.xml"/>
+  </input>
+  <time><begin value="0"/><end value="1800"/></time>
+  <output>
+    <tripinfo-output value="out/tripinfo.xml"/>
+    <emission-output value="out/emissions.xml"/>
+  </output>
+  <report><no-step-log value="true"/></report>
+</configuration>

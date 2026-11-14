@@ -1,0 +1,8 @@
+eclipse-sumo
+traci
+sumolib
+pandas
+streamlit
+paho-mqtt
+osmnx
+geopandas
